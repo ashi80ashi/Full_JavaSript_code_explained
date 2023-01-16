@@ -25,7 +25,7 @@ final()                 //needs to call final as it is strong function
 //hoisting means nothing but it is a behaviour of JS 
 //whats happens normally that first you declare the function then calls it but in js you can to opposite of it
 
-gm()                     //we called fun before decalring
+gm()                     //we called fun before declaring
 function gm() {
     console.log("good morning India")
 }
