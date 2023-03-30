@@ -40,7 +40,7 @@
 
 // let a = document.createElement('div');
 // a.className='c1';
-// a.innerHTML='<b>hatt bhosdike';
+// a.innerHTML='<b>hi,added by js';
 // let txt = document.createTextNode(' mai ek text node hu ')
 // a.appendChild(txt);
 // console.log(a);
